@@ -7,7 +7,7 @@
 <body>
     <?php
 
-        echo("php en la nube");
+        echo "php en la nube";
         
     ?>
 
