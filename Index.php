@@ -22,7 +22,7 @@
         
         <!--BOTON-DE-CONSULTAR-------------------------->
         <center>
-	<button type="submit" class="btng" value="Consultar" id ="consultar">Consultar</button>
+	<button  class="btng" value="Consultar" id ="consultar">Consultar</button>
     
         </center>
         
