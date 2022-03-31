@@ -7,13 +7,19 @@
 }
 
 /*--IMAGEN-DE-FONDO--------------*/
-body{
-    background-image: url(C:\xampp\htdocs\Formulario-Club\fondo);
-    background-position: center center;
+body{   
+    background-image: url(reniec.jpg);
+    background-position:left top;
+    background-size: 200px;
+    background-position-x: 25px;
+    background-position-y: -35px;
+
     background-repeat: no-repeat;
-    background-size: cover;
+  
     background-attachment: fixed;
-    font-size: 15px;
+   
+ padding-top: 50px;
+
 }
 
 /*--FORMULARIO-------------------*/
@@ -30,6 +36,8 @@ body{
 .titulo{
     color: #1d4169;
     margin-bottom: 20px;
+  
+    font-size: 30px;
 }
 
 /*--CAJAS-DE-DATOS---------------*/
@@ -44,7 +52,7 @@ body{
 }
 
 .cajas:hover, .cajas:focus{
-    border-left: 10px solid #1a4c7e;
+    border-left: 10px solid #8d2e46;
 }
 
 /*--TERMINOS-Y-CONDICIONES-------*/
@@ -64,17 +72,18 @@ body{
 }
 
 /*--BOTON-DE-REGISTRARSE---------*/
-.btn{
+.btng{
     width: 100%;
     padding: 15px;
     border-radius: 2px;
     border: none;
     margin: 20px 0;
     font-size: 15px;
-    background: #225677;
+    background: #812842;
     color: white;
     cursor: pointer;
     transition: all .5s ease;
+   
 }
 
 .btn:hover{
