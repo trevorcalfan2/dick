@@ -11,7 +11,7 @@
 <body>
     
     <!--FORMULARIO---->
-    <form class="form"  id="api_form">
+    <form class="form" method="post">
         
         <!--TITULO------------------------>
         <h1 class="titulo">Realizar Consulta</h1>
@@ -22,7 +22,7 @@
         
         <!--BOTON-DE-CONSULTAR-------------------------->
         <center>
-	<button  class="btng" value="Consultar" id ="consultar">Consultar</button>
+	<input  class="btng" id ="consultar" value="Consultar" type="button">
     
         </center>
         
