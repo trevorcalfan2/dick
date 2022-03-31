@@ -22,7 +22,8 @@
         
         <!--BOTON-DE-CONSULTAR-------------------------->
         <center>
-        <input class="btng" value="Consultar" id ="consultar" >
+	<button type="submit" class="btng" value="Consultar" id ="consultar">Consultar</button>
+    
         </center>
         
     </form>
@@ -32,8 +33,9 @@
                     <tr>
                         <th scope="col" >DNI</th>
                         <th scope="col">Nombre</th>
+			<th scope="col">Apellido Paterno</th>
                         <th scope="col" >Apellido Materno</th>
-                        <th scope="col">Apellido Paterno</th>
+                        
 
                     </tr>
                 </thead>
