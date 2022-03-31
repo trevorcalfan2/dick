@@ -11,7 +11,7 @@
 <body>
     
     <!--FORMULARIO---->
-    <form class="form"  method="post" id="api_form">
+    <form class="form"  id="api_form">
         
         <!--TITULO------------------------>
         <h1 class="titulo">Realizar Consulta</h1>
