@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Formulario</title>
+    <link rel="icon" type="image/x-icon"" href="reniec.ico">
     <link rel="stylesheet" href="form.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
